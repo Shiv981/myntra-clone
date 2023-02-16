@@ -1,0 +1,24 @@
+.inputme{
+    width:500px;
+    border-radius:5px;
+  }
+  header{
+    position:sticky;
+    top:0;
+    background:white;
+    height:80px;
+    box-shadow:rgba(0,0,0,0.15) 1.95px 1.95px 10px;
+  }
+  .home{
+    width:100vw;
+    align-items: center;
+  }
+  header{
+    position:sticky;
+  }
+  .q{
+    align-items: center;
+    display:flex;
+    margin-top: 12px;
+    padding-left: 600px;
+  }

@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .flex{
+    margin: 5px 20px;
+    padding:0px;
+    display: flex;
+  }
+  .left img{
+    width: 40px;
+    height: 50px;
+  }
+  nav ul li{
+    list-style: none;
+    padding: 0 12px;
+  }
+  .item-center{
+    align-items: center;
+  }
+  .space-arround{
+  justify-content:space-between;
+  }
+  .mx2{
+    margin:12px 12px;
+  }
+  .section1{
+    background: #f2f2f2;
+  }
+  
